@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sibtain Ahmad</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">A passionate Backend Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibtain189&label=Profile%20views&color=0e75b6&style=flat" alt="sibtain189" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sibtain4ahmad" target="blank"><img src="https://img.shields.io/twitter/follow/sibtain4ahmad?logo=twitter&style=for-the-badge" alt="sibtain4ahmad" /></a> </p>
 
-- 🌱 I’m currently learning **Java Backend Development**
+- 🌱 I’ve 1 year of experience in **Backend Java Development**
 
 - 👨‍💻 All of my projects are available at **https://sibtain-portfolio.netlify.app/**
 
