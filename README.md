@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibtain Ahmad</h1>
-<h3 align="center">A passionate Backend Java Developer</h3>
+<h3 align="center">A passionate Backend Java Developer. All coding projects are build from the ground up, from planning and designing all the way to solving real-life problem with code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sibtain189&label=Profile%20views&color=0e75b6&style=flat" alt="sibtain189" /> </p>
 
